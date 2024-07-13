@@ -1,0 +1,67 @@
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\025EFEA0-2FAB-42F2-9670-FDB068C867A4.jpg||.jpg||plastic_bag||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||2086752
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\10271613_624419434317433_7682877361417765402_n.jpg||.jpg||knot||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||96517
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\10284941_648202065272503_6042398364983740661_o.jpg||.jpg||neck_brace||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||66341
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\1532283641121 - copia.jpg||.jpg||seat_belt||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\landscape||46666
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20200922-CARROS-HIBRIDOS-EXENTOS-DE-PICO-Y-PLACA-EN-BOGOTA-01.jpg||.jpg||sports_car||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\car||102945
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20210015-Proyecto-Ley-Placas-Colombia-01-750x518.jpg||.jpg||grille||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||96732
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20211225_165658.jpg||.jpg||sunglasses||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||75889
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_131623.jpg||.jpg||minibus||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\car||98715
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133149 - copia.jpg||.jpg||bathing_cap||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||108661
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133231.jpg||.jpg||swimming_trunks||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||114984
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133234.jpg||.jpg||swimming_trunks||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||140806
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133452.jpg||.jpg||seashore||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\landscape||88358
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133901 - copia.jpg||.jpg||barbershop||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||79886
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220515_133926.jpg||.jpg||golfcart||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\car||113386
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220516_163856 - copia.jpg||.jpg||jersey||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||70884
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220517_150625.jpg||.jpg||jersey||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||72602
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220523_154135 - copia.jpg||.jpg||bathing_cap||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||86925
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220906_223520 - copia.jpg||.jpg||seat_belt||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\landscape||81998
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220906_223714.jpg||.jpg||cowboy_hat||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\people||101499
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220906_223719.jpg||.jpg||seat_belt||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\landscape||98341
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20220917_111253.jpg||.jpg||stole||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||79054
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123802.jpg||.jpg||jersey||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||69901
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123806.jpg||.jpg||barbershop||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||66761
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123810.jpg||.jpg||bow_tie||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||63013
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123815.jpg||.jpg||barbershop||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||77755
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123818.jpg||.jpg||potter's_wheel||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||92360
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\20221208_123855.jpg||.jpg||dumbbell||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||52979
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\449456826_321252794375209_1122629031808399131_n.jpg||.jpg||tile_roof||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||240041
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\9a54ca298da69b0a355ce303c71f46db.png||.png||lab_coat||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||475852
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_103314840_Preview.jpeg||.jpeg||teddy||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||170269
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_123522493_Preview.jpeg||.jpeg||car_wheel||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\car||339362
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_124280894_Preview.jpeg||.jpeg||Labrador_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||216819
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_170844396_Preview.jpeg||.jpeg||Labrador_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||224416
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_177476718_Preview.jpeg||.jpeg||jay||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||255931
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_177742846_Preview.jpeg||.jpeg||car_wheel||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\car||123494
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_256100731_Preview.jpeg||.jpeg||volcano||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||367460
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_275590531_Preview.jpeg||.jpeg||promontory||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||382308
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_302079439_Preview.jpeg||.jpeg||lakeside||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||174808
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_475302033_Preview.jpeg||.jpeg||candle||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||240566
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_481561810_Preview.jpeg||.jpeg||jean||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||175335
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_497219043_Preview.jpeg||.jpeg||rotisserie||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||273915
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_599782684_Preview.jpeg||.jpeg||jean||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||149132
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_608881224_Preview.jpeg||.jpeg||wig||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||194016
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\AdobeStock_654629030_Preview.jpeg||.jpeg||Tibetan_terrier||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||192826
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\B2125A5A-F493-42A4-924A-0BEBED3CDE53.jpg||.jpg||Saluki||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||2685736
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\c64c7efb-7469-4973-9d9f-5d0b63afc7b6.jpg||.jpg||cowboy_hat||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\people||121215
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\Holiday-Pack-2.jpg||.jpg||vending_machine||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||179486
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG-20161122-WA0003 - copia.jpg||.jpg||neck_brace||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||65357
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_0788.JPG||.JPG||jersey||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||60381
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_0792.jpg||.jpg||bathing_cap||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||89779
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_20170916_144559_572.jpg||.jpg||stole||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||69187
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3520.HEIC||.HEIC||cowboy_hat||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\people||1526515
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3522.HEIC||.HEIC||crash_helmet||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1061299
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3684.HEIC||.HEIC||golden_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1521040
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3685.HEIC||.HEIC||golden_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1657282
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3686.HEIC||.HEIC||golden_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1425912
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3700.HEIC||.HEIC||golden_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1684780
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3814.HEIC||.HEIC||cup||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1262591
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3825.JPG||.JPG||pencil_box||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||71175
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3906.HEIC||.HEIC||packet||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1116935
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3948.HEIC||.HEIC||sliding_door||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1496510
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\IMG_3960.HEIC||.HEIC||golden_retriever||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||1513858
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\Screenshot_20200619-102056_Drive.jpg||.jpg||neck_brace||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||72519
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\unnamed.png||.png||web_site||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||234454
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\WhatsApp Image 2022-12-08 at 10.06.25 AM.jpeg||.jpeg||sunscreen||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||76083
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\WhatsApp Image 2022-12-08 at 10.06.59 AM.jpeg||.jpeg||groom||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||80202
+F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\landing\WhatsApp Image 2023-10-09 at 12.02.13 PM.jpeg||.jpeg||military_uniform||F:\\Programacion\\Scripts_2024\\ML\\ImageClassification\\out_classi\unclassified||315059
