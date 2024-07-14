@@ -1,9 +1,11 @@
 
 # Image Classification Project 🚀
 
-Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres categorías principales: personas, paisajes y carros.
+Este proyecto utiliza el modelo InceptionV3 🧠 para clasificar imágenes en tres categorías principales: personas, paisajes y carros en su segunda version **Clasificador_ImagenesV2.py**, la version normal generaliza.
 
-[![00e6f8a9fcbf996b20290bcf30c862c2.gif](https://i.postimg.cc/L6p9y53N/00e6f8a9fcbf996b20290bcf30c862c2.gif)](https://postimg.cc/YjdB0pVW)
+<a href="https://postimg.cc/YjdB0pVW">
+    <img src="https://i.postimg.cc/L6p9y53N/00e6f8a9fcbf996b20290bcf30c862c2.gif" alt="Classification GIF" width="100"/>
+</a>
 
 ## Tabla de Contenidos 📑
 - [Introducción](#introducción)
@@ -18,10 +20,7 @@ Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres ca
 - [Licencia](#licencia)
 
 ## Introducción 🌟
-Este proyecto se basa en la arquitectura InceptionV3 para realizar la clasificación de imágenes. El objetivo es clasificar las imágenes en tres categorías: personas, paisajes y carros, utilizando un modelo preentrenado y técnicas de preprocesamiento de imágenes.
-
-## Algoritmo InceptionV3 🧠
-InceptionV3 es una arquitectura de red neuronal convolucional desarrollada por Google. Es conocida por su eficiencia y precisión en la clasificación de imágenes. La red se compone de múltiples capas de convolución, pooling y operaciones de concatenación diseñadas para capturar diferentes características de las imágenes.
+Este proyecto se basa en la arquitectura InceptionV3 para realizar la clasificación de imágenes. El objetivo es lograr clasificar las imágenes en tres categorías: personas, paisajes y carros, utilizando un modelo preentrenado y técnicas de preprocesamiento de imágenes.
 
 ![InceptionV3 Architecture](https://paperswithcode.com/media/methods/Inceptionv3.png)
 
@@ -32,7 +31,7 @@ InceptionV3 es una arquitectura de red neuronal convolucional desarrollada por G
 
 ## Aplicaciones del Modelo InceptionV3 📊
 
-InceptionV3 es un modelo versátil que se ha utilizado en una variedad de tareas de aprendizaje profundo. La siguiente gráfica de pastel muestra las diferentes tareas en las que se ha empleado InceptionV3, junto con el número de artículos publicados y su porcentaje de participación en cada tarea.
+InceptionV3 es un modelo versátil que se ha utilizado en una variedad de tareas de aprendizaje profundo. La siguiente gráfica muestra las diferentes tareas en las que se ha empleado InceptionV3, junto con el número de artículos publicados y su porcentaje de participación en cada tarea.
 
 [![Captura-de-pantalla-2024-07-13-193221.png](https://i.postimg.cc/gkTMzXtK/Captura-de-pantalla-2024-07-13-193221.png)](https://postimg.cc/Xp9KxJbZ)
 
@@ -49,6 +48,24 @@ InceptionV3 es un modelo versátil que se ha utilizado en una variedad de tareas
 - **Other**: Resto de las tareas no especificadas en detalle.
 
 Esta distribución evidencia la popularidad de InceptionV3 en tareas de clasificación de imágenes, así como su aplicabilidad en otros dominios del aprendizaje profundo.
+
+----
+## Uso de Modelos a lo Largo del Tiempo 📈
+
+La gráfica diferentes modelos de redes neuronales, incluida Inception-v3, a lo largo del tiempo. Esto nos permite observar las tendencias y la popularidad relativa, asi como la superidad en ciertas tareas de ResNet sobre InceptionV3
+
+[![Captura-de-pantalla-2024-07-13-193607.png](https://i.postimg.cc/KYyDjnPt/Captura-de-pantalla-2024-07-13-193607.png)](https://postimg.cc/fVB9gSgb)
+
+### Modelos Comparados
+- **Inception-v3**: Representado en azul.
+- **ResNet**: Representado en rojo.
+- **VGG**: Representado en verde.
+- **MobileNetV2**: Representado en amarillo.
+- **DenseNet**: Representado en naranja.
+- **AlexNet**: Representado en cian.
+
+Esta comparación temporal destaca cómo ResNet ha mantenido una popularidad constante y elevada en comparación con otros modelos, mientras que Inception-v3 y otros han tenido fluctuaciones menores en su uso.
+
 
 
 ### Enlaces Útiles
@@ -76,4 +93,4 @@ Esta distribución evidencia la popularidad de InceptionV3 en tareas de clasific
 
 Para instalar las dependencias, ejecuta:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
