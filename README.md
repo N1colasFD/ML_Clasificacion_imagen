@@ -2,7 +2,7 @@
 
 Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres categorías principales: personas, paisajes y carros.
 
-![Image](image.png)
+[![00e6f8a9fcbf996b20290bcf30c862c2.gif](https://i.postimg.cc/L6p9y53N/00e6f8a9fcbf996b20290bcf30c862c2.gif)](https://postimg.cc/YjdB0pVW)
 
 ## Tabla de Contenidos 📑
 - [Introducción](#introducción)
@@ -38,7 +38,7 @@ Este proyecto se basa en la arquitectura InceptionV3 para realizar la clasificac
 Para instalar las dependencias, ejecuta:
 ```bash
 pip install -r requirements.txt
-
+```
 
 Contribuciones 🤝
 ¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o un pull request. Aquí hay algunas maneras en las que puedes contribuir:
@@ -50,7 +50,7 @@ Enviar solicitudes de extracción para correcciones o nuevas características
 Licencia 📜
 Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
 
---
+---
 ## tal vez tambien el interese
 “InceptionV3 classification improvement techniques”
 bing.com
