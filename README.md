@@ -1,3 +1,4 @@
+```markdown
 # Image Classification Project 🚀
 
 Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres categorías principales: personas, paisajes y carros.
@@ -6,6 +7,7 @@ Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres ca
 
 ## Tabla de Contenidos 📑
 - [Introducción](#introducción)
+- [Algoritmo InceptionV3](#algoritmo-inceptionv3)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Requisitos](#requisitos)
 - [Configuración](#configuración)
@@ -17,6 +19,22 @@ Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres ca
 
 ## Introducción 🌟
 Este proyecto se basa en la arquitectura InceptionV3 para realizar la clasificación de imágenes. El objetivo es clasificar las imágenes en tres categorías: personas, paisajes y carros, utilizando un modelo preentrenado y técnicas de preprocesamiento de imágenes.
+
+## Algoritmo InceptionV3 🧠
+InceptionV3 es una arquitectura de red neuronal convolucional desarrollada por Google. Es conocida por su eficiencia y precisión en la clasificación de imágenes. La red se compone de múltiples capas de convolución, pooling y operaciones de concatenación diseñadas para capturar diferentes características de las imágenes.
+
+![InceptionV3 Architecture](https://paperswithcode.com/media/methods/Inceptionv3.png)
+
+### Ventajas de InceptionV3
+- **Eficiencia Computacional**: Optimiza el uso de recursos computacionales mediante el uso de convoluciones de diferentes tamaños.
+- **Reducción de Parámetros**: Utiliza convoluciones 1x1 para reducir la dimensionalidad y mejorar la eficiencia.
+- **Alta Precisión**: Ha demostrado ser muy precisa en tareas de clasificación de imágenes en comparación con otras arquitecturas.
+
+### Enlaces Útiles
+- [Papers with Code — Inception-v3 Explained](https://paperswithcode.com/method/inception-v3)
+- [Google Research — Improving Inception and Image Classification in TensorFlow](https://arxiv.org/abs/1512.00567)
+- [Keras — InceptionV3](https://keras.io/api/applications/inceptionv3/)
+- [ROCm Docs — Deep learning: Inception V3 with PyTorch](https://rocmdocs.amd.com/en/latest/Deep_learning/Deep_learning_Inceptionv3.html)
 
 ## Estructura del Proyecto 📂
 
@@ -38,34 +56,3 @@ Este proyecto se basa en la arquitectura InceptionV3 para realizar la clasificac
 Para instalar las dependencias, ejecuta:
 ```bash
 pip install -r requirements.txt
-```
-
-Contribuciones 🤝
-¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o un pull request. Aquí hay algunas maneras en las que puedes contribuir:
-
-Reportar errores
-Sugerir nuevas características
-Mejorar la documentación
-Enviar solicitudes de extracción para correcciones o nuevas características
-Licencia 📜
-Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
-
----
-## tal vez tambien el interese
-“InceptionV3 classification improvement techniques”
-bing.com
-
-Papers with Code — Inception-v3 Explained | Papers With Code
-paperswithcode.com
-
-Hugging Face — Inception v3
-huggingface.co
-
-Google Research — Improving Inception and Image Classification in TensorFlow
-research.google
-
-Keras — InceptionV3
-keras.io
-
-ROCm Docs — Deep learning: Inception V3 with PyTorch — ROCm Documentation
-rocmdocs.amd.com
