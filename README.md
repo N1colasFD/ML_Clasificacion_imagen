@@ -1,4 +1,4 @@
-```markdown
+
 # Image Classification Project 🚀
 
 Este proyecto utiliza el modelo InceptionV3 para clasificar imágenes en tres categorías principales: personas, paisajes y carros.
@@ -29,6 +29,27 @@ InceptionV3 es una arquitectura de red neuronal convolucional desarrollada por G
 - **Eficiencia Computacional**: Optimiza el uso de recursos computacionales mediante el uso de convoluciones de diferentes tamaños.
 - **Reducción de Parámetros**: Utiliza convoluciones 1x1 para reducir la dimensionalidad y mejorar la eficiencia.
 - **Alta Precisión**: Ha demostrado ser muy precisa en tareas de clasificación de imágenes en comparación con otras arquitecturas.
+
+## Aplicaciones del Modelo InceptionV3 📊
+
+InceptionV3 es un modelo versátil que se ha utilizado en una variedad de tareas de aprendizaje profundo. La siguiente gráfica de pastel muestra las diferentes tareas en las que se ha empleado InceptionV3, junto con el número de artículos publicados y su porcentaje de participación en cada tarea.
+
+[![Captura-de-pantalla-2024-07-13-193221.png](https://i.postimg.cc/gkTMzXtK/Captura-de-pantalla-2024-07-13-193221.png)](https://postimg.cc/Xp9KxJbZ)
+
+### Distribución de Tareas
+- **Image Classification**: 16 papers (11.94%)
+- **General Classification**: 15 papers (11.19%)
+- **Classification**: 13 papers (9.70%)
+- **Adversarial Attack**: 5 papers (3.73%)
+- **Quantization**: 4 papers (2.99%)
+- **Object Detection**: 3 papers (2.24%)
+- **Image Captioning**: 3 papers (2.24%)
+- **Diversity**: 3 papers (2.24%)
+- **Semantic Segmentation**: 3 papers (2.24%)
+- **Other**: Resto de las tareas no especificadas en detalle.
+
+Esta distribución evidencia la popularidad de InceptionV3 en tareas de clasificación de imágenes, así como su aplicabilidad en otros dominios del aprendizaje profundo.
+
 
 ### Enlaces Útiles
 - [Papers with Code — Inception-v3 Explained](https://paperswithcode.com/method/inception-v3)
